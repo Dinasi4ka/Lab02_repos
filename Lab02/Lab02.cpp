@@ -14,14 +14,14 @@ int main()
 {
 	const double Pi = 4 * atan(1.);
 
-	//double a;
+	double a;
 	double z1;
 	double z2;
 
 	cout << "a=  "; cin >> a;
 
 	z1 = cos(a) + sin(a) + cos(3 * a) + sin(3 * a);
-	z2 = 2 * sqrt(2) * cos(a) * sin(Pi / 4 + 2 * a);
+	//z2 = 2 * sqrt(2) * cos(a) * sin(Pi / 4 + 2 * a);
 
 	cout << endl;
 	cout << "z1 = " << z1 << endl;

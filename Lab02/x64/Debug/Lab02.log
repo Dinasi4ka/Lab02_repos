@@ -1,2 +1,2 @@
 ﻿  Lab02.cpp
-  Lab02.vcxproj -> C:\Users\Admin\Desktop\Lab02\x64\Debug\Lab02.exe
+C:\Users\Admin\Desktop\Lab02\Lab02\Lab02.cpp(28): error C4700: uninitialized local variable 'z2' used
